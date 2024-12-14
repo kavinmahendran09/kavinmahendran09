@@ -26,4 +26,4 @@ A student resource hub built to organize **CT papers**, **Semester papers**, and
 
 ---
 
-*"Good code is its own best documentation."*  
+*"It’s a feature, promise."*  
