@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Kavin!
 
-<!--
-**kavinmahendran09/kavinmahendran09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building cool things with code and making life easier for students (shoutout to **Acehive**!). When I'm not coding, I’m probably debugging something… or pretending to.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project: **Acehive**
+A student resource hub built to organize **CT papers**, **Semester papers**, and **Study materials** like a pro.  
+- 🔍 Search and filter resources easily.  
+- 📂 Supabase-powered storage.  
+- 🛡 Admin tools to avoid duplicates.  
+
+👉 [**Check it out here**](https://acehive.vercel.app)
+
+---
+
+## 🛠 My Tech Stack
+- **Frontend**: React, Bootstrap, JavaScript  
+- **Backend**: Supabase, Node.js  
+- **Database**: SQL  
+
+---
+
+## 📬 Get in Touch
+- ✉️ [Email](mailto:kavinbharathi.mahendran@gmail.com)  
+
+---
+
+*"Good code is its own best documentation."*  
