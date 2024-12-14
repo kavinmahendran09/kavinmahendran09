@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kavin!
 
-I love building cool things with code and making life easier for students (shoutout to **Acehive**!). When I'm not coding, I’m probably debugging something… or pretending to.
+I love building cool things with code and making life easier (shoutout to **Acehive**!). When I'm not coding, I’m probably debugging something… or pretending to.
 
 ---
 
